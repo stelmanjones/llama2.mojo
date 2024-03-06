@@ -1,6 +1,6 @@
 name = "llama2.mojo"
 version = "0.1.0"
-lib = "."
+entrypoint = "."
 repo = "https://github.com/stelmanjones/llama2.mojo"
 
 [dependencies]
